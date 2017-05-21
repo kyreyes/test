@@ -1,1 +1,4 @@
 testfile_2
+git checkout primary
+git pull
+modify test file 2
